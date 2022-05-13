@@ -1,0 +1,264 @@
+player,team,league,position,draft_eligible,nation,pos_fac
+Jakob Brandner,Titaanit,Finland 3rd division,G,2021,austria,3
+Leonhard Sommer,Linz 2,Austria 2nd division,G,2021,austria,3
+Sebastian Wraneschitz,Vienna,AUT,G,2021,austria,3
+Jonas Kutzer,Dornbirn,AUT,D,2021,austria,2
+Luis Lindner,Boston Jr. Bruins,NCDC,D,2021,austria,2
+Moritz Molls,Okanagan Jr.,Austria Jr. league,D,2021,austria,2
+Lukas Necesany,RB Hockey Akademia,Czech Jr. league,D,2021,austria,2
+Timo Pallierer,Vienna,AUT,D,2021,austria,2
+Jacob Pfeffer,Graz,AUT,D,2021,austria,2
+Bernhard Posch,Bregenzerwald,Austria 2nd division,D,2021,austria,2
+Niklas Wetzl,Tuto Jr.,Finland Jr. league,D,2021,austria,2
+Philipp Wimmer,RB Hockey Juniors,Austria 2nd division,D,2021,austria,2
+Mathias Bohm,Vienna Jr.,Austria Jr. league,F,2021,austria,1
+Tim Harnisch,RB Hockey Juniors,Austria 2nd division,F,2021,austria,1
+Maximillian Hengelmuller,RB Hockey Juniors,Austria 2nd division,F,2021,austria,1
+Fabian Hochegger,Klagenfurt 2,Austria 2nd division,F,2021,austria,1
+Marco Kasper,Rogle Jr.,Sweden Jr. league,F,2022,austria,1
+Clemens Krainz,Graz,AUT,F,2021,austria,1
+Julian Pauschenwein,Graz,AUT,F,2021,austria,1
+Senna Peeters,Rogle Jr.,Sweden Jr. league,F,2021,austria,1
+Marco Rossi,Ottawa,OHL,F,Drafted,austria,1
+Lucas Thaler,Mora Jr.,Sweden Jr. league,F,2021,austria,1
+Maximilian Theirich,Klagenfurt 2,Austria 2nd division,F,2021,austria,1
+Marlon Tschofen,Kloten Jr.,Swiss Jr. league,F,2021,austria,1
+Dominik Unterweger,Feldkirch,Austria 2nd division,F,2021,austria,1
+Finn van Ee,Klagenfurt 2,Austria 2nd division,F,2021,austria,1
+Leon Wallner,Sodertalje Jr.,Sweden Jr. league,F,2021,austria,1
+Dylan Garand,Kamloops,WHL,G,Drafted,canada,3
+Taylor Gauthier,Prince George,WHL,G,2021,canada,3
+Devon Levi,Northeastern,H-EAST,G,Drafted,canada,3
+Justin Barron,Halifax,QMJHL,D,Drafted,canada,2
+Bowen Byram,Vancouver,WHL,D,Drafted,canada,2
+Jamie Drysdale,Erie,OHL,D,Drafted,canada,2
+Kaiden Guhle,Prince Albert,WHL,D,Drafted,canada,2
+Thomas Harley,Mississauga,OHL,D,Drafted,canada,2
+Kaedan Korczak,Kelowna,WHL,D,Drafted,canada,2
+Braden Schneider,Brandon,WHL,D,Drafted,canada,2
+Jordan Spence,Moncton,QMJHL,D,Drafted,canada,2
+Quinton Byfield,Sudbury,OHL,F,Drafted,canada,1
+Dylan Cozens,Lethbridge,WHL,F,Drafted,canada,1
+Kirby Dach,Chicago Blackhawks,NHL,F,Drafted,canada,1
+Dylan Holloway,Wisconsin,BIG 10,F,Drafted,canada,1
+Peyton Krebs,Winnipeg,WHL,F,Drafted,canada,1
+Connor McMichael,London,OHL,F,Drafted,canada,1
+Dawson Mercer,Chicoutimi,QMJHL,F,Drafted,canada,1
+Alex Newhook,Boston College,HE,F,Drafted,canada,1
+Jakob Pelletier,Val-d'Or,QMJHL,F,Drafted,canada,1
+Cole Perfetti,Saginaw,OHL,F,Drafted,canada,1
+Jack Quinn,Ottawa,OHL,F,Drafted,canada,1
+Ryan Suzuki,Saginaw,OHL,F,Drafted,canada,1
+Philip Tomasino,Oshawa,OHL,F,Drafted,canada,1
+Connor Zary,Kamloops,WHL,F,Drafted,canada,1
+Jan Bednar,Acadie-Bathurst,QMJHL,G,Drafted,czech_republic,3
+Nick Malik,Sault Ste. Marie,OHL,G,2021,czech_republic,3
+Lukas Parik,Liberec,Czech Extraliga,G,Drafted,czech_republic,3
+Martin Has,Guelph,OHL,D,Drafted,czech_republic,2
+David Jiricek,Plzen,Czech Extraliga,D,2022,czech_republic,2
+Karel Klikorka,ML. Boleslav,Czech Extraliga,D,2021,czech_republic,2
+Michael Krutil,Sparta Jr.,Czech Jr. league,D,Drafted,czech_republic,2
+Simon Kubicek,Seattle,WHL,D,2021,czech_republic,2
+Radek Kucerik,Prerov,Czech 2nd division,D,2021,czech_republic,2
+Daniel Poizl,Sparta Jr.,Czech Jr. league,D,2021,czech_republic,2
+Jiri Suhrada,Zlin,Czech Extraliga,D,2021,czech_republic,2
+Stanislav Svozil,Brno,Czech Extraliga,D,2021,czech_republic,2
+Martin Beranek,Ceske Budejovice,Czech Extraliga,F,2021,czech_republic,1
+Michal Gut,Everett,WHL,F,2021,czech_republic,1
+Filip Koffer,Litomerice,Czech 2nd division,F,2021,czech_republic,1
+Martin Lang,Plzen,Czech Extraliga,F,2021,czech_republic,1
+Radek Muzik,Lulea Jr.,Sweden Jr. league,F,2021,czech_republic,1
+Jan Mysak,Litvinov,Czech Extraliga,F,Drafted,czech_republic,1
+Adam Najman,Liberec,Czech Extraliga,F,2021,czech_republic,1
+Pavel Novak,Litomerice,Czech 2nd division,F,Drafted,czech_republic,1
+Filip Prikryl,Plzen,Czech Extraliga,F,2021,czech_republic,1
+Ondrej Psenicka,Litomerice,Czech 2nd division,F,2021,czech_republic,1
+Jaromir Pytlik,Sault Ste. Marie,OHL,F,Drafted,czech_republic,1
+Adam Raska,Trinec,Czech Extraliga,F,Drafted,czech_republic,1
+Jakub Rychlovsky,Liberec,Czech Extraliga,F,2021,czech_republic,1
+Michal Teply,ML. Boleslav,Czech Extraliga,F,Drafted,czech_republic,1
+Matej Toman,Litomerice,Czech 2nd division,F,2021,czech_republic,1
+David Vitouch,Litomerice,Czech 2nd division,F,2021,czech_republic,1
+Joel Blomqvist,Hermes,Finland 2nd division,G,Drafted,finland,3
+Kari Piiroinen,Tuto,Finland 2nd division,G,2021,finland,3
+Roope Taponen,K-Espoo,Finland 2nd division,G,2021,finland,3
+Santeri Hatakka,Ilves,Liiga,D,Drafted,finland,2
+Ville Heinola,Lukko,Liiga,D,Drafted,finland,2
+Mikko Kokkonen,Jukurit,Liiga,D,Drafted,finland,2
+Topi Niemela,Karpat,Liiga,D,Drafted,finland,2
+Kasper Puutio,Karpat Jr.,Finland Jr. league,D,Drafted,finland,2
+Ruben Rafkin,TPS,Liiga,D,2021,finland,2
+Matias Rajaniemi,Pelicans,Liiga,D,Drafted,finland,2
+Eemil Viro,TPS,Liiga,D,Drafted,finland,2
+Samuel Helenius,JYP,Liiga,F,2021,finland,1
+Roni Hirvonen,Assat,Liiga,F,Drafted,finland,1
+Roby Jarventie,Ilves,Liiga,F,Drafted,finland,1
+Benjamin Korhonen,KalPa,Liiga,F,2021,finland,1
+Brad Lambert,JYP,Liiga,F,2022,finland,1
+Anton Lundell,HIFK,Liiga,F,Drafted,finland,1
+Matias Mantykivi,SaiPa,Liiga,F,Drafted,finland,1
+Henri Nikkanen,Jukurit,Liiga,F,Drafted,finland,1
+Juuso Parssinen,TPS,Liiga,F,Drafted,finland,1
+Mikko Petman,Lukko,Liiga,F,2021,finland,1
+Petteri Puhakka,Tappara Jr.,Finland Jr. league,F,2021,finland,1
+Mikael Pyyhtia,TPS Jr.,Finland Jr. league,F,Drafted,finland,1
+Aku Raty,Karpat,Liiga,F,Drafted,finland,1
+Kasper Simontaival,Tappara,Liiga,F,Drafted,finland,1
+Florian Bugl,RB Hockey Juniors,Austria 2nd division,G,2021,germany,3
+Jonas Gahr,Lowen,Germany 2nd division,G,2021,germany,3
+Arno Tiefensee,Mannheim Jr.,Germany Jr. league,G,2021,germany,3
+Lucas Flade,Dresden,Germany 2nd division,D,2021,germany,2
+Maximillian Glotzl,Koln,GER,D,2021,germany,2
+Simon Gnyp,Koln,GER,D,2021,germany,2
+Niklas Langer,Augsburg,GER,D,2021,germany,2
+Luca Munzenberger,Koln Jr.,Germany Jr. league,D,2021,germany,2
+Steven Raabe,Wolfsburg,GER,D,2021,germany,2
+Maksymilian Szuber,RB Hockey Juniors,Austria 2nd division,D,2021,germany,2
+Mario Zimmermann,Landshut,German 2nd division,D,2021,germany,2
+Manuel Alberg,RB Hockey Juniors,Austria 2nd division,F,2021,germany,1
+Jakub Borzecki,RB Hockey Juniors,Austria 2nd division,F,2021,germany,1
+Julian Chrobot,Koln,GER,F,2021,germany,1
+Samuel Dube,RB Hockey Juniors,AUT-2,F,2021,germany,1
+Florian Elias,Mannheim,GER,F,2021,germany,1
+Enrico Henriquez-Morales,Ingolstadt,GER,F,2021,germany,1
+Jan Nijenhuis,Wolfsburg,GER,F,2021,germany,1
+John-Jason Peterka,Munchen,GER,F,Drafted,germany,1
+Filip Reisnecker,Bremerhaven,GER,F,2021,germany,1
+Joshua Samanski,Owen Sound,OHL,F,2021,germany,1
+Jan-Luca Schumacher,Heilbronn,Germany 2nd division,F,2021,germany,1
+Markus Schweiger,Kaufbeuren Jr.,Germany Jr. league,F,2021,germany,1
+Tim Stutzle,Mannheim,GER,F,Drafted,germany,1
+Justin Volek,Ravensburg,German 2nd division,F,2021,germany,1
+Artur Akhtyamov,Irbis Kazan,Russia Jr. league,G,Drafted,russia,3
+Yaroslav Askarov,SKA St. Petersburg,KHL,G,Drafted,russia,3
+Vsevolod Skotnikov,Zvezda Moscow,Russia 2nd division,G,2021,russia,3
+Roman Bychkov,Yaroslavl 2,Russia Jr. league,D,Drafted,russia,2
+Daniil Chayka,Guelph,OHL,D,2021,russia,2
+Semyon Chystyakov,Omsk,KHL,D,Drafted,russia,2
+Kirill Kirsanov,SKA St. Petersburg,KHL,D,2021,russia,2
+Artemi Kniazev,D,Bars Kazan,D,Drafted,russia,2
+Yan Kuznetsov,UConn,H-EAST,D,Drafted,russia,2
+Shakir Mukhamadullin,Ufa,KHL,D,Drafted,russia,2
+Yegor Shekhovtsov,Neva St. Petersburg,Russia 2nd division,D,2021,russia,2
+Mikhail Abramov,Victoriaville,QMJHL,F,Drafted,russia,1
+Yegor Afanasyev,CSKA,KHL,F,Drafted,russia,1
+Rodion Amirov,Ufa,KHL,F,Drafted,russia,1
+Zakhar Bardakov,Podolsk,KHL,F,2021,russia,1
+Danil Bashkirov,Ufa,KHL,F,2021,russia,1
+Yegor Chinakhov,Omsk,KHL,F,Drafted,russia,1
+Vladislav Firstov,UConn,H-EAST,F,Drafted,russia,1
+Arseny Gritsyuk,Omsk,KHL,F,Drafted,russia,1
+Maxim Groshev,SKA St. Petersburg,KHL,F,Drafted,russia,1
+Marat Khusnutdinov,SKA St. Petersburg 2,Russia Jr. league,F,Drafted,russia,1
+Vasily Podkolzin,SKA St. Petersburg,KHL,F,Drafted,russia,1
+Vasiliy Ponomarev,Shawinigan,QMJHL,F,Drafted,russia,1
+Ilya Safonov,Kazan,KHL,F,2021,russia,1
+Yegor Spiridonov,SKA St. Petersburg 2,Russia Jr. league,F,Drafted,russia,1
+Thibault Fatton,Lugano Jr.,Swiss Jr. league,G,2021,switzerland,3
+Andri Henauer,Bern Jr.,Swiss Jr. league,G,2021,switzerland,3
+Noah Patenaude,Saint John,QMJHL,G,2021,switzerland,3
+Inaki Baragano,Lausanne Jr.,Swiss Jr. league,D,2021,switzerland,2
+Giancarlo Chanton,Langenthal,Swiss 2nd division,D,2021,switzerland,2
+Noah Delemont,Biel Jr.,Swiss Jr. league,D,2021,switzerland,2
+Cedric Fiedler,Western Michigan,NCHC,D,2021,switzerland,2
+Bastian Guggenheim,Langnau,National League,D,2021,switzerland,2
+Noah Meier,GCK Zurich,Swiss 2nd division,D,2021,switzerland,2
+Rocco Pezzullo,Ambri,National League,D,2021,switzerland,2
+Alessandro Villa,Lugano Jr.,Swiss Jr. league,D,2021,switzerland,2
+Nathan Vouardoux,Lausanne Jr.,Swiss Jr. league,D,2021,switzerland,2
+Brian Zanetti,Peterborough,OHL,D,2021,switzerland,2
+Dario Allenspach,Zug Academy,Swiss 2nd division,F,2021,switzerland,1
+Jeremie Bartschi,Biel Jr.,Swiss Jr. league,F,2021,switzerland,1
+Attilio Biasca,Halifax,QMJHL,F,2021,switzerland,1
+Stefano Bottini,Penticton,BCHL,F,2021,switzerland,1
+Mika Burkhalter,Winterthur,Swiss 2nd division,F,2021,switzerland,1
+Lorenzo Canonica,Shawinigan,QMJHL,F,2021,switzerland,1
+Ronny Dahler,Langenthal,Swiss 2nd division,F,2021,switzerland,1
+Keanu Derungs,Zug Academy,Swiss 2nd division,F,2021,switzerland,1
+Raymond Fust,Chilliwack,BCHL,F,2021,switzerland,1
+Valentin Hofer,Zug Jr.,Swiss Jr. league,F,2021,switzerland,1
+Gaetan Jobin,Fribourg,National League,F,2021,switzerland,1
+Simon Knak,Portland,WHL,F,2021,switzerland,1
+Lionel Marchand,Timra Jr.,Sweden Jr. league,F,2021,switzerland,1
+Joel Salzgeber,Langnau Jr.,Swiss Jr. league,F,2021,switzerland,1
+Elvis Schlapfer,Langenthal,Swiss 2nd division,F,2021,switzerland,1
+Samuel Hlavaj,Sherbrooke,QMJHL,G,2021,slovakia,3
+Patrik Kozel,L. Mikulas,Slovak Extraliga,G,2021,slovakia,3
+Simon Latkoczy,Trencin Jr.,Slovakia Jr. league,G,2021,slovakia,3
+Eugen Rabcan,Banska Bystrica,Slovak Extraliga,G,2021,slovakia,3
+Simon Becar,Slovakia U18,Slovakia Jr. league,D,2021,slovakia,2
+Andrej Golian,Tri-City,WHL,D,2021,slovakia,2
+Simon Groch,Olomouc Jr. Czech Jr. league (2021 draft eligible),NHL,D,Drafted,slovakia,2
+Matus Hlavac,Olomouc Jr.,Czech Jr. league,D,2021,slovakia,2
+Samuel Knazko,TPS Jr.,Finland Jr. league,D,Drafted,slovakia,2
+David Mudrak,Oshawa,OHL,D,2021,slovakia,2
+Simon Nemec,Nitra,Slovak Extraliga,D,2022,slovakia,2
+Rayen Petrovicky,Tuto Jr.,Finland Jr. league,D,2021,slovakia,2
+Marko Stacha,Trencin Jr.,Slovakia Jr. league,D,2021,slovakia,2
+Oliver Turan,Detva,Slovak Extraliga,D,2021,slovakia,2
+Robert Baco,Karlovy Vary Jr.,Czech Jr. league,F,2021,slovakia,1
+Martin Chromiak,Kingston,OHL,F,Drafted,slovakia,1
+Michael Drabek,Liberec Jr.,Czech Jr. league,F,2021,slovakia,1
+Juraj Elias,Kosice,Slovak Extraliga,F,2021,slovakia,1
+Roman Faith,Bratislava,AUT,F,2021,slovakia,1
+Maros Jedlicka,Zvolen,Slovak Extraliga,F,2021,slovakia,1
+Simon Jellus,Karlskrona Jr.,Sweden Jr. league,F,2021,slovakia,1
+Dominik Jendek,Sudbury,OHL,F,2021,slovakia,1
+Matej Kaslik,Chicoutimi,QMJHL,F,2021,slovakia,1
+Jakub Kolenic,Zvolen,Slovak Extraliga,F,2021,slovakia,1
+Filip Mesar,Poprad,Slovak Extraliga,F,2022,slovakia,1
+Michal Mrazik,Linkoping Jr.,Sweden Jr. league,F,2021,slovakia,1
+Oleksiy Myklukha,Rouyn-Noranda,QMJHL,F,2021,slovakia,1
+Juraj Slafkovsky,TPS Jr.,Finland Jr. league,F,2022,slovakia,1
+Dominik Sojka,Banska Bystrica,Slovak Extraliga,F,2021,slovakia,1
+Artur Turansky,Wilkes-Barre/Scranton,NAHL,F,2021,slovakia,1
+Hugo Alnefelt,HV 71,SHL,G,Drafted,sweden,3
+Calle Clang,Kristianstad,Sweden 2nd division,G,Drafted,sweden,3
+Jesper Wallstedt,Lulea,SHL,G,2021,sweden,3
+Emil Andrae,HV 71,SHL,D,Drafted,sweden,2
+Gustav Berglund,Vasteras,Sweden 2nd division,D,Drafted,sweden,2
+Tobias Bjornfot,Djurgarden,SHL,D,Drafted,sweden,2
+Alex Brannstam,Djurgarden Jr.,Sweden Jr. league,D,2021,sweden,2
+Philip Broberg,Skelleftea,SHL,D,Drafted,sweden,2
+Ludvig Hedstrom,Djurgarden Jr.,Sweden Jr. league,D,2021,sweden,2
+Albert Johansson,Farjestad,SHL,D,Drafted,sweden,2
+Victor Soderstrom,AIK,Sweden 2nd division,D,Drafted,sweden,2
+Oscar Bjerselius,Djurgarden,SHL,F,2021,sweden,1
+Arvid Costmar,Linkoping,SHL,F,Drafted,sweden,1
+Noel Gunler,Brynas,SHL,F,Drafted,sweden,1
+Emil Heineman,Leksand,SHL,F,Drafted,sweden,1
+Simon Holmstrom,Vita Hasten,Sweden 2nd division,F,Drafted,sweden,1
+Alexander Holtz,Djurgarden,SHL,F,Drafted,sweden,1
+Oskar Kvist,Brynas,SHL,F,2021,sweden,1
+Theodor Niederbach,Frolunda Jr.,Sweden Jr. league,F,Drafted,sweden,1
+Zion Nybeck,HV 71,SHL,F,Drafted,sweden,1
+Oskar Olausson,HV 71 Jr.,Sweden Jr. league,F,2021,sweden,1
+Lucas Raymond,Frolunda,SHL,F,Drafted,sweden,1
+Elmer Soderblom,Frolunda,SHL,F,Drafted,sweden,1
+Albin Sundsvik,Skelleftea,SHL,F,Drafted,sweden,1
+Jonathan Wikstrom,HV 71 Jr.,Sweden Jr. league,F,2021,sweden,1
+Spencer Knight,Boston College,H-EAST,G,Drafted,usa,3
+Logan Stein,Ferris State,WCHA,G,2021,usa,3
+Dustin Wolf,Everett,WHL,G,Drafted,usa,3
+Brock Faber,Minnesota,BIG 10,D,Drafted,usa,2
+Drew Helleson,Boston College,H-EAST,D,Drafted,usa,2
+Ryan Johnson,Minnesota,BIG 10,D,Drafted,usa,2
+Tyler Kleven,North Dakota,NCHC,D,Drafted,usa,2
+Jackson LaCombe,Minnesota,BIG 10,D,Drafted,usa,2
+Jake Sanderson,North Dakota,NCHC,D,Drafted,usa,2
+Hunter Skinner,London,OHL,D,Drafted,usa,2
+Henry Thrun,Dubuque,USHL,D,Drafted,usa,2
+Cam York,Michigan,BIG 10,D,Drafted,usa,2
+Matthew Beniers,Michigan,BIG 10,F,2021,usa,1
+Brett Berard,Providence,HE,F,Drafted,usa,1
+Matthew Boldy,Boston College,H-EAST,F,Drafted,usa,1
+Bobby Brink,Denver,NCHC,F,Drafted,usa,1
+Brendan Brisson,Michigan,BIG 10,F,Drafted,usa,1
+Cole Caufield,Wisconsin,BIG 10,F,Drafted,usa,1
+Sam Colangelo,Northeastern,H-EAST,F,Drafted,usa,1
+John Farinacci,Muskegon,USHL,F,Drafted,usa,1
+Arthur Kaliyev,Hamilton,OHL,F,Drafted,usa,1
+Patrick Moynihan,Providence,H-EAST,F,Drafted,usa,1
+Landon Slaggert,Notre Dame,BIG 10,F,Drafted,usa,1
+Alex Turcotte,Eisbaren Berlin,DEL,F,Drafted,usa,1
+Trevor Zegras,San Diego,AHL,F,Drafted,usa,1
